@@ -14,11 +14,11 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "kartik-v/mpdf": "*"
+        "fresh-design/yii2-mb-mpdf": "*"
     },
     "autoload": {
         "psr-4": {
-            "kartik\\mpdf\\": ""
+            "fresh-design\\yii2-mb-mpdf-adapter\\": ""
         }
     }
 }
