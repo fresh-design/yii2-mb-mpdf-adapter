@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "fresh-design\\yii2-mb-mpdf-adapter\\": ""
+            "kartik\\mpdf\\": ""
         }
     }
 }
